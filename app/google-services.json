@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "864100393236",
+    "firebase_url": "https://finnacle-rider.firebaseio.com",
+    "project_id": "finnacle-rider",
+    "storage_bucket": "finnacle-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864100393236:android:79f43ca09ba07325",
+        "android_client_info": {
+          "package_name": "com.finnacle.finnaclecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864100393236-u54oijkio5lp9rroeebi13elm819hpc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finnacle.finnaclecustomer",
+            "certificate_hash": "616950cec285ad3d9a07a770d583fb357b7d6b63"
+          }
+        },
+        {
+          "client_id": "864100393236-5j1gobuc5j1gn2vvc1rmdub7i8d88j25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_J1afk55mS3wSX_G2xE9wcTSRAge3GVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864100393236-5j1gobuc5j1gn2vvc1rmdub7i8d88j25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864100393236:android:c89fbfbae0bef837",
+        "android_client_info": {
+          "package_name": "com.finnacle.finnaclerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864100393236-iag43eg44cbbnp6mk2qhclqrh5fjmngi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finnacle.finnaclerider",
+            "certificate_hash": "616950cec285ad3d9a07a770d583fb357b7d6b63"
+          }
+        },
+        {
+          "client_id": "864100393236-5j1gobuc5j1gn2vvc1rmdub7i8d88j25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_J1afk55mS3wSX_G2xE9wcTSRAge3GVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864100393236-5j1gobuc5j1gn2vvc1rmdub7i8d88j25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
